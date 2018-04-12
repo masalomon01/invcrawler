@@ -130,7 +130,7 @@ def scrape_community_comments(posts_lol):
     # here we'll iterate over each post and scrape the comments
     for post in posts_lol:
         post_id, url = post[0], post[5]
-        
+        # iterate over each post here
 
 
 
